@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
         z-index: 1; 
         position: fixed;
         top: 0;
-        background: transparent;
+/*         background: transparent; */
     }
     .navbar {
         width: 80%;
